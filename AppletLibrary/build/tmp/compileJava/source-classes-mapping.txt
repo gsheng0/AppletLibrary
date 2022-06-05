@@ -1,10 +1,12 @@
-applet/Window.java
- applet.Window
-interfaces/Action.java
- interfaces.Action
-Tester.java
- Tester
-applet/Applet.java
- applet.Applet
 interfaces/Drawable.java
  interfaces.Drawable
+interfaces/Action.java
+ interfaces.Action
+applet/Window.java
+ applet.Window
+Tester.java
+ Tester
+interfaces/Interactable.java
+ interfaces.Interactable
+applet/Applet.java
+ applet.Applet
